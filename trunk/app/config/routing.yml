@@ -1,0 +1,4 @@
+life_reminder_user:
+    resource: "@LifeReminderUserBundle/Resources/config/routing.php"
+    prefix:   /
+
