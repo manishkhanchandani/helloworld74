@@ -1,0 +1,4 @@
+shaklee_pws:
+    resource: "@ShakleePWSBundle/Resources/config/routing.yml"
+    prefix:   /
+

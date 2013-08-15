@@ -1,0 +1,16 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_ibm
+    database_host: ecmdbt02.shaklee.com
+    database_port: '60004'
+    database_name: shaklee1
+    database_user: icshktst
+    database_password: test123
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 9ed4b90d27d41ab8bf860ec5eb341e3a8f1cc3b6
+    database_path: null
+

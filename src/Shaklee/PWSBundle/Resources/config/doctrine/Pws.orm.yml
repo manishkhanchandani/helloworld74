@@ -1,0 +1,18 @@
+Shaklee\PWSBundle\Entity\Pws:
+    type: entity
+    table: null
+    repositoryClass: Shaklee\PWSBundle\Entity\PwsRepository
+    fields:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+        oRGENTITYID:
+            type: bigint
+            column: ORGENTITY_ID
+        pATHNAME:
+            type: string
+            length: '40'
+            column: PATH_NAME
+    lifecycleCallbacks: {  }

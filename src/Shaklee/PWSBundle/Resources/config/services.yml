@@ -1,0 +1,7 @@
+parameters:
+#    shaklee_pws.example.class: Shaklee\PWSBundle\Example
+
+services:
+#    shaklee_pws.example:
+#        class: %shaklee_pws.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

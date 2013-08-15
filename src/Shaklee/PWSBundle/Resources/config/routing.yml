@@ -1,0 +1,7 @@
+shaklee_pws_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: ShakleePWSBundle:Default:index }
+
+shaklee_pws_business:
+    pattern:  /business
+    defaults: { _controller: ShakleePWSBundle:Business:index }
